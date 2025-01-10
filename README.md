@@ -1,10 +1,10 @@
 ## Fortran codes for all-element field modelling using SRBFs from heterogeneous observations
 https://www.zcyphygeodesy.com/en/h-nd-155.html
 ### [Algorithm purpose]
-    From various heterogeneous observations which can be the residual gravity disturbance, height anomaly, gravity anomaly, disturbing gravity gradient, or vertical deflection, determinate the residual gravity disturbance, height anomaly, gravity anomaly, disturbing gravity gradient, and vertical deflection outside geoid using spherical radial basis functions (SRBFs), to realize the unified modelling on regional gravity field and geoid.
-    From various heterogeneous observations, determinate the all-element residual gravity field models outside geoid using SRBFs, to realize the unified modelling on regional gravity field and geoid.
-    The program is a high performance and adaptable modelling tool on local gravity field. Various observations with heterogeneity, different altitudes, cross-distribution and land-sea coexisting can be directly employed to estimate the all-element models of gravity field without reduction, continuation and gridding.
-    The program has strong capacity on the detection of observation gross errors, measurement of external accuracy indexes and control of computation performance.
+&emsp;```From various heterogeneous observations which can be the residual gravity disturbance, height anomaly, gravity anomaly, disturbing gravity gradient, or vertical deflection, determinate the residual gravity disturbance, height anomaly, gravity anomaly, disturbing gravity gradient, and vertical deflection outside geoid using spherical radial basis functions (SRBFs), to realize the unified modelling on regional gravity field and geoid.```  
+&emsp;```From various heterogeneous observations, determinate the all-element residual gravity field models outside geoid using SRBFs, to realize the unified modelling on regional gravity field and geoid.```  
+&emsp;```The program is a high performance and adaptable modelling tool on local gravity field. Various observations with heterogeneity, different altitudes, cross-distribution and land-sea coexisting can be directly employed to estimate the all-element models of gravity field without reduction, continuation and gridding.```  
+&emsp;```The program has strong capacity on the detection of observation gross errors, measurement of external accuracy indexes and control of computation performance.```
 ![](https://24192633.s21i.faiusr.com/2/ABUIABACGAAg9OzltwYo0PbRlAQwpQ047gg.jpg)
 ![](https://24192633.s21i.faiusr.com/2/ABUIABACGAAg9ezltwYo6LHlwQYwpQ047gg.jpg)
 ### [Main program for test entrance]
